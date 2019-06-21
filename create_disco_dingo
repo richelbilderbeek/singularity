@@ -1,0 +1,23 @@
+#!/bin/bash
+
+img_filename=disco_dingo.img
+def_filename=disco_dingo.def
+
+if [ ! -f $def_filename ];
+then
+  echo "ERROR: .deb file does not exist"
+  exit 1
+fi 
+
+if [ ! -f $img_filename ];
+then
+  sudo singularity image.create $img_filename
+fi 
+
+if [ ! -f $img_filename ];
+then
+  echo "ERROR: image file has not been created"
+  exit 1
+fi 
+
+sudo singularity build -w $img_filename $def_filename

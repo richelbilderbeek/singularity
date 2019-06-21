@@ -1,0 +1,9 @@
+DistType "debian"
+MirrorURL "http://us.archive.ubuntu.com/ubuntu/"
+OSVersion "disco"
+
+Setup
+Bootstrap
+
+Cleanup
+The following keywords were used in this definition file:

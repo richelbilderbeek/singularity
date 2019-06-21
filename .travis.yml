@@ -1,6 +1,11 @@
 language: generic
 dist: xenial
 
+addons: 
+  apt: 
+    packages: 
+      - singularity
+
 install:
   # Check dead links
   - sudo apt-get install -qq npm
