@@ -13,6 +13,8 @@ install:
   - sudo npm install -g markdown-link-check
 
 script:
+  # Singularity
+  - singularity --version
   # Check dead links
   - rm .travis.yml
   - ./scripts/check_dead_links
