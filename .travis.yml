@@ -1,12 +1,23 @@
 language: generic
 dist: xenial
 
-addons: 
-  apt: 
-    packages: 
-      - singularity-container
+# Does not work
+#addons: 
+#  apt: 
+#    packages: 
+#      - singularity-container
 
 install:
+  # Install Singularity
+  - git clone https://github.com/sylabs/singularity.git
+  - cd singularity
+  - git fetch --all
+  - git checkout 2.5.0
+  - ./autogen.sh
+  - ./configure --prefix=/usr/local
+  - make
+  - sudo make install
+  - cd ..
   # Check dead links
   - sudo apt-get install -qq npm
   - npm config set strict-ssl false
