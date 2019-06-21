@@ -8,6 +8,16 @@ dist: xenial
 #      - singularity-container
 
 install:
+  # Singularity prerequisited
+  - sudo apt-get install --yes libarchive-dev
+  #- sudo apt-get update && sudo apt-get install -y \
+  #  build-essential \
+  #  libssl-dev \
+  #  uuid-dev \
+  #  libgpgme11-dev \
+  #  squashfs-tools \
+  #  wget \
+  #  git
   # Install Singularity
   - git clone https://github.com/sylabs/singularity.git
   - cd singularity
