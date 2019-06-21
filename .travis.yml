@@ -38,4 +38,5 @@ script:
   - singularity --version
   # Check dead links
   - rm .travis.yml
+  - rm -rf singularity
   - ./scripts/check_dead_links
