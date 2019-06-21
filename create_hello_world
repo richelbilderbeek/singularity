@@ -1,0 +1,14 @@
+#!/bin/bash
+
+img_filename=hello_world.img
+
+if [ ! -f $img_filename ];
+then
+  sudo singularity image.create hello_world.img
+fi 
+
+if [ ! -f $img_filename ];
+then
+  echo "ERROR: file still does not exist"
+  exit 1
+fi 
