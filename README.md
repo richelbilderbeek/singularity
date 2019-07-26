@@ -6,6 +6,16 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
 My notes on using Singularity
 
+## One simple rule to learn Singularity
+
+Find out the version you have access to, and read the
+documation of that version.
+
+```
+singularity --version
+2.5.2-dist
+```
+
 ## Hello world
 
 From [Peregrine tutorial](https://redmine.hpc.rug.nl/redmine/projects/peregrine/wiki/Singularity_containers_-_define_your_own_software_environment)
