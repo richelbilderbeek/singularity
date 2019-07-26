@@ -11,10 +11,16 @@ My notes on using Singularity
 Find out the version you have access to, and read the
 documation of that version.
 
+To see your version of Singularity:
+
 ```
 singularity --version
-2.5.2-dist
 ```
+
+Where            |Version
+-----------------|-----------------------
+Lubuntu Disco    |`2.5.2-dist`
+Travis CI Xenial |`2.5.0-HEAD.g50d254da5`
 
 ## Hello world
 
