@@ -29,3 +29,6 @@ Peregrine        |`3.2.1-1.el7`
 -------|-----------------------------------------------------
 [![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_1.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_1) | [1: Install v2.5.0](https://github.com/richelbilderbeek/singularity_example_1)
 [![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_2.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_2) | [2: Install v3.2.1](https://github.com/richelbilderbeek/singularity_example_2)
+[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_3.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_3) | [3: cowsay on Ubuntu 18.40](https://github.com/richelbilderbeek/singularity_example_3)
+[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_4.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_4) | [4: NCBI tool on Ubuntu 18.40](https://github.com/richelbilderbeek/singularity_example_4)
+
