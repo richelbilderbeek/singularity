@@ -1,10 +1,10 @@
-# singularity
+# singularity_examples
 
 Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 ---|---
 `master`|[![Build Status](https://travis-ci.org/richelbilderbeek/singularity.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity)
 
-My notes on using Singularity
+My Singularity examples.
 
 ## One simple rule to learn Singularity
 
