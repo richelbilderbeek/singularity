@@ -28,7 +28,31 @@ Peregrine        |`3.2.1-1.el7`
 [![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|Description
 -------|-----------------------------------------------------
 [![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_1.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_1) | [1: Install v2.5.0](https://github.com/richelbilderbeek/singularity_example_1)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_2.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_2) | [2: Install v3.2.1](https://github.com/richelbilderbeek/singularity_example_2)
 [![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_3.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_3) | [3: cowsay on Ubuntu 18.40](https://github.com/richelbilderbeek/singularity_example_3)
 [![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_4.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_4) | [4: NCBI tool on Ubuntu 18.40](https://github.com/richelbilderbeek/singularity_example_4)
+[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_5.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_5) | [5: Ubuntu 19.04 (disco)](https://github.com/richelbilderbeek/singularity_example_5)
 
+## Notes to self
+
+### Why not to use `Richèl` as author name
+
+When doing this:
+
+```
+%labels
+
+    AUTHOR Richèl J.C. Bilderbeek
+```
+
+The `è` gets turned to Unicode:
+
+```
+richel@sonic:~/GitHubs/singularity_example_3$ singularity inspect ubuntu_cowsay.simg 
+{
+    "AUTHOR": "Rich\u00e8l J.C. Bilderbeek",
+```
+
+## Links
+
+ * Singularity documentation: [https://sylabs.io/docs/](https://sylabs.io/docs/)
+ * Singularity v2.5 documentation: [https://sylabs.io/guides/2.5/user-guide/](https://sylabs.io/guides/2.5/user-guide/)
