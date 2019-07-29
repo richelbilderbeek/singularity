@@ -34,6 +34,8 @@ Peregrine        |`3.2.1-1.el7`
 [![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_5.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_5) | [5: Ubuntu 19.04 (disco)](https://github.com/richelbilderbeek/singularity_example_5)
 [![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_6.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_6) | [6: City of Thieves](https://github.com/richelbilderbeek/singularity_example_6)
 [![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_7.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_7) | [7: ndsmake](https://github.com/richelbilderbeek/singularity_example_7)
+--- | 8: Zork
+--- | 9: MXE
 
 ## Notes to self
 
