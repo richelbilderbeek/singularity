@@ -25,15 +25,15 @@ Peregrine        |`3.2.1-1.el7`
 
 ## Examples
 
-[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|Description
--------|-----------------------------------------------------
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_1.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_1) | [1: Use newest Singularity](https://github.com/richelbilderbeek/singularity_example_1)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_2.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_2) | [2: Use default Singularity](https://github.com/richelbilderbeek/singularity_example_2)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_3.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_3) | [3: cowsay on Ubuntu 18.40](https://github.com/richelbilderbeek/singularity_example_3)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_4.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_4) | [4: NCBI tool on Ubuntu 18.40](https://github.com/richelbilderbeek/singularity_example_4)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_5.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_5) | [5: Ubuntu 19.04 (disco)](https://github.com/richelbilderbeek/singularity_example_5)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_6.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_6) | [6: City of Thieves](https://github.com/richelbilderbeek/singularity_example_6)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_7.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_7) | [7: ndsmake](https://github.com/richelbilderbeek/singularity_example_7)
+[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|Description|Singularity version|Ubuntu version
+-------|-----------------------------------------------------|---|---
+[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_1.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_1) | [1: lolcow](https://github.com/richelbilderbeek/singularity_example_1)|v3.2.1|16.04 (Xenial)
+[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_2.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_2) | [2: Use default Singularity](https://github.com/richelbilderbeek/singularity_example_2)|v3.2.1|16.04 (Xenial)
+[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_3.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_3) | [3: cowsay on Ubuntu 18.40](https://github.com/richelbilderbeek/singularity_example_3)|v3.2.1|18.04 (Bionic)
+[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_4.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_4) | [4: NCBI tool on Ubuntu 18.40](https://github.com/richelbilderbeek/singularity_example_4)|v3.2.1|16.04 (Xenial)
+[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_5.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_5) | [5: Ubuntu 19.04 (disco)](https://github.com/richelbilderbeek/singularity_example_5)|v3.2.1|16.04 (Xenial)
+[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_6.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_6) | [6: City of Thieves](https://github.com/richelbilderbeek/singularity_example_6)|v3.2.1|16.04 (Xenial)
+[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_7.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_7) | [7: ndsmake](https://github.com/richelbilderbeek/singularity_example_7)|v3.2.1|16.04 (Xenial)
 --- | 8: Zork
 --- | 9: MXE
 
