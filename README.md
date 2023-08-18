@@ -21,18 +21,18 @@ Peregrine        |`3.2.1-1.el7`
 
 ## Examples
 
-[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|Description|Singularity version|Ubuntu version
--------|-----------------------------------------------------|---|---
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_1.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_1) | [1: lolcow](https://github.com/richelbilderbeek/singularity_example_1)|v3.2.1|16.04 (xenial)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_2.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_2) | [2: lolcow on cosmic](https://github.com/richelbilderbeek/singularity_example_2)|v3.2.1|18.10 (cosmic)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_3.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_3) | [3: cowsay](https://github.com/richelbilderbeek/singularity_example_3)|v3.2.1|18.10 (cosmic)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_4.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_4) | [4: NCBI tools](https://github.com/richelbilderbeek/singularity_example_4)|v3.2.1|18.10 (cosmic)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_5.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_5) | [5: lolcow on Ubuntu 19.04 (disco) (fails)](https://github.com/richelbilderbeek/singularity_example_5)|v3.2.1|19.04 (disco) [1]
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_6.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_6) | [6: City of Thieves](https://github.com/richelbilderbeek/singularity_example_6)|v3.2.1|18.10 (cosmic)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_7.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_7) | [7: ndsmake](https://github.com/richelbilderbeek/singularity_example_7)|v3.2.1|18.10 (cosmic)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_8.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_8) | [8: Zork](https://github.com/richelbilderbeek/singularity_example_8)|v3.2.1|18.10 (cosmic)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_9.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_9) | [9: MXE](https://github.com/richelbilderbeek/singularity_example_9)|v3.2.1|19.10 (cosmic)
-[![Build Status](https://travis-ci.org/richelbilderbeek/singularity_example_10.svg?branch=master)](https://travis-ci.org/richelbilderbeek/singularity_example_10) | [10: BBBQ](https://github.com/richelbilderbeek/singularity_example_10)|v3.2.1|110.10 (cosmic)
+Description|Singularity version|Ubuntu version
+-----------------------------------------------------|---|---
+[1: lolcow](https://github.com/richelbilderbeek/singularity_example_1)|v3.2.1|16.04 (xenial)
+[2: lolcow on cosmic](https://github.com/richelbilderbeek/singularity_example_2)|v3.2.1|18.10 (cosmic)
+[3: cowsay](https://github.com/richelbilderbeek/singularity_example_3)|v3.2.1|18.10 (cosmic)
+[4: NCBI tools](https://github.com/richelbilderbeek/singularity_example_4)|v3.2.1|18.10 (cosmic)
+[5: lolcow on Ubuntu 19.04 (disco) (fails)](https://github.com/richelbilderbeek/singularity_example_5)|v3.2.1|19.04 (disco) [1]
+[6: City of Thieves](https://github.com/richelbilderbeek/singularity_example_6)|v3.2.1|18.10 (cosmic)
+[7: ndsmake](https://github.com/richelbilderbeek/singularity_example_7)|v3.2.1|18.10 (cosmic)
+[8: Zork](https://github.com/richelbilderbeek/singularity_example_8)|v3.2.1|18.10 (cosmic)
+[9: MXE](https://github.com/richelbilderbeek/singularity_example_9)|v3.2.1|19.10 (cosmic)
+[10: BBBQ](https://github.com/richelbilderbeek/singularity_example_10)|v3.2.1|110.10 (cosmic)
 
  * [1] does not work: will not upgrade from cosmic to disco
 
