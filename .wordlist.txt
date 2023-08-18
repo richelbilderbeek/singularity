@@ -1,0 +1,16 @@
+bytesize
+conf
+config
+Ewels
+GHA
+Nextflow
+nextflow
+nf
+nf
+Richel
+Richèl
+sbatch
+github
+https
+issuecomment
+sylabs
