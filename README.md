@@ -5,7 +5,7 @@ My Singularity examples.
 ## One simple rule to learn Singularity
 
 Find out the version you have access to, and read the
-documation of that version.
+documentation of that version.
 
 To see your version of Singularity:
 
