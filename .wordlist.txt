@@ -14,3 +14,14 @@ github
 https
 issuecomment
 sylabs
+Lubuntu
+Xenial
+BBBQ
+MXE
+NCBI
+Zork
+cowsay
+lolcow
+ndsmake
+xenial
+io
